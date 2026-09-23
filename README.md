@@ -60,7 +60,7 @@ git clone <repo-url>
 Install Python libraries:
 pip install -r requirements.txt
 Set up your Kaggle API, download the data, and follow the steps to load and analyze.
-Project Structure
+#### Project Structure
 |-- data/                     # Raw data and transformed data
 |-- sql_queries/              # SQL scripts for analysis and queries
 |-- notebooks/                # Jupyter notebooks for Python analysis
@@ -70,10 +70,10 @@ Project Structure
 Results and Insights
 This section will include your analysis findings:
 
-Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
-Profitability: Insights into the most profitable product categories and locations.
-Customer Behavior: Trends in ratings, payment preferences, and peak shopping hours.
-Future Enhancements
+##### Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
+##### Profitability: Insights into the most profitable product categories and locations.
+##### Customer Behavior: Trends in ratings, payment preferences, and peak shopping hours.
+##### Future Enhancements
 Possible extensions to this project:
 
 Integration with a dashboard tool (e.g., Power BI or Tableau) for interactive visualization.
