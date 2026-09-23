@@ -1,0 +1,17 @@
+## Walmart Business Problems   
+1.Analyze Payment Methods and Sales   
+Question: What are the different payment methods, and how many transactions and items were sold with each method?   
+Purpose: This helps understand customer preferences for payment methods, aiding in payment optimization strategies.   
+2.Identify the Highest-Rated Category in Each Branch   
+Question: Which category received the highest average rating in each branch?   
+Purpose: This allows Walmart to recognize and promote popular categories in specific branches, enhancing customer satisfaction and branch-specific marketing.   
+3. Determine the Busiest Day for Each Branch   
+Question: What is the busiest day of the week for each branch based on transaction volume?   
+Purpose: This insight helps in optimizing staffing and inventory management to accommodate peak days.   
+4.Calculate Total Quantity Sold by Payment Method   
+Question: How many items were sold through each payment method?   
+Purpose: This helps Walmart track sales volume by payment type, providing insights into customer purchasing habits.   
+5.Calculate Total Profit by Category   
+Question: What is the total profit for each category, ranked from highest to lowest?   
+Purpose: Identifying high-profit categories helps focus efforts on expanding these products or managing pricing strategies effectively.  
+6.Determine the Most Common Payment Method per Bran
